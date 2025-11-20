@@ -1,0 +1,8 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "DemoBlog vv"
+theme = "ananke"
+
+[params]
+  author = "StaticPress User"
+  description = "A blog created with StaticPress"
